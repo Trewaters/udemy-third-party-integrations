@@ -24,10 +24,11 @@ Thanks a lot for your interest and I hope you sign up for [this free course](htt
 
 ### Content
 - Web app development
-- Unit testing
+- Unit testing (ts-jest)
 - Using third party APIs
 - React
 - NextJS
+- [unmock.io](https://www.unmock.io)
 
 ### Course Requirements
 - Be conversant in JavaScript
@@ -37,6 +38,14 @@ Thanks a lot for your interest and I hope you sign up for [this free course](htt
 ### Who this course is for
 - Intermediate JavaScript developers looking to build better apps with third party API integrations
 
-## Installation
+## Getting started
 1) clone repository
-2) run npm install
+2) open command prompt and run `npm install`
+3) `npm run build`
+4) `npm run start`
+5) Open browser to `localhost:3000`
+6) `yarn test`, they will fail unless you do the following
+  a) **pass** tests by getting unmock **API KEY**
+  b) create an unmock account [here](https://www.unmock.io). Try it free for 30 days!
+  c) install the unmock API KEY in your application. Read how to do that [here](https://www.unmock.io/docs#installing)
+7) Now your tests will pass and you can see the mock data that is returned via unmock.io
