@@ -4,7 +4,7 @@ Companion repository for the Udemy course titled "Building Apps with Third Party
 
 For those of you that learn better by hacking at an already-done repo, feel free to clone this!  It will work out of the box with your unmock key, which you can grab by registering at [unmock.io](https://www.unmock.io).
 
-To get started [see below...](#Getting Started)
+To get started [see below...](#Getting%20Started)
 
 ## About the Instructor
 Mike Solomon, CEO of Meeshkan Machine Learning, where they use tons of 3rd party integrations in their award-winning app.
