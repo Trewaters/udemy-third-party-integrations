@@ -38,7 +38,7 @@ Thanks a lot for your interest and I hope you sign up for [this free course](htt
 ### Who this course is for
 - Intermediate JavaScript developers looking to build better apps with third party API integrations
 
-## Getting started
+## Installation
 1) clone repository
 2) open command prompt and run `npm install`
 3) `npm run build`
