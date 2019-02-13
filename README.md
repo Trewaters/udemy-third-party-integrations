@@ -48,4 +48,4 @@ Thanks a lot for your interest and I hope you sign up for [this free course](htt
   - **pass** tests by getting unmock **API KEY**
   - create an unmock account [here](https://www.unmock.io). Try it free for 30 days!
   - install the unmock API KEY in your application. Read how to do that [here](https://www.unmock.io/docs#installing)
-7) Now your tests will pass and you can see the mock data that is returned via unmock.io
+7) Now your tests will pass and you can see the mock data that is returned via [unmock.io](https://www.unmock.io)
